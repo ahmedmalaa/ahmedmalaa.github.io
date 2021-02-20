@@ -1,24 +1,24 @@
 # main links links
 main:
 
-  - title: <p style="font-size:15px"> "Research Overview" </p> #"Research Overview"
+  - title: <p style="font-size:15px"> Research Overview </p> #"Research Overview"
     url: /markdown/
 
-  - title: <p style="font-size:15px"> "Publications" </p> #"Publications"
+  - title: <p style="font-size:15px"> Publications </p> #"Publications"
     url: /publications/   
 
-  - title: <p style="font-size:15px"> "Teaching" </p> #"Teaching"
+  - title: <p style="font-size:15px"> Teaching </p> #"Teaching"
     url: /teaching/    
 
-  - title: <p style="font-size:15px"> "Software" </p> # "Software" 
+  - title: <p style="font-size:15px"> Software </p> # "Software" 
     url: /portfolio/
 
-  - title: <p style="font-size:15px"> "Talks" </p> #"Talks"
+  - title: <p style="font-size:15px"> Talks </p> #"Talks"
     url: /talks/ 
         
-  - title: <p style="font-size:15px"> "Blog Posts" </p> #"Blog Posts"
+  - title: <p style="font-size:15px"> Blog Posts </p> #"Blog Posts"
     url: /year-archive/
     
-  - title: <p style="font-size:15px"> "Resume" </p> # "Resume"
+  - title: <p style="font-size:15px"> Resume </p> # "Resume"
     url: /cv/
     
