@@ -10,7 +10,7 @@ main:
   - title: "Teaching"
     url: /teaching/    
 
-  - title: <p style="font-size:30px">This is a paragraph.</p> #"Software"
+  - title: <p style="font-size:10px">Software</p> 
     url: /portfolio/
 
   - title: "Talks"
