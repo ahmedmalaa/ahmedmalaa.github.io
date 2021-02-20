@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ahmed M. Alaa"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Ahmed M. Alaa"
-description              : &description "Postdoctoral Scholar at UCLA"
+description              : &description "Ahmed Alaa's academic page"
 url                      : https://ahmedmalaa.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ahmedmalaa/ahmedmalaa.github.io"
